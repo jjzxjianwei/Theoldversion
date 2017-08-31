@@ -1,7 +1,16 @@
 ---
 layout: page
-title: About
+title: 博客简介
 permalink: /about/
 ---
 
-Renge is designed by Junchao (www.junchaowang.com), inspired by the amination called "のんのんびより" and named by one of the Characters, Renge Miyauchi (宮内 れんげ). If you have any questions, you can reach me via <a href="https://github.com/billyfish152/Renge">Renge on GitHub</a> by submitting an issue or via email billyfish152[at]gmail.com.
+玩博客现在算落伍了，说实话几十年了我还真的没有认真玩过博客，以前都玩的是第三方的博客，感觉自主性太差，
+  
+自从知道了分布式服务器github服务器，才有了兴趣来一步步搭建自己的博客，在博客搭建中也学习到了很多知识，
+ 
+虽然期间遇到了不少困难，但庆幸的是博客还是顺利搭建完成，希望在以后的时光里，用键盘打字在这里，
+  
+消耗这一去不返的时光吧。
+
+                                                                                      2017年8月31日晚于家里写下
+
