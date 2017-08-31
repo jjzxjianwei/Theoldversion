@@ -1,0 +1,19 @@
+# 这个主题的名称叫做Renge，是作者https://github.com/billyfish152编写的一个jekyll主题
+# 博客创造灵感来源于日本漫画《悠哉日常大王》的主要人物宮内 れんげ 
+# please change the belowing settings to your own.
+#请更改下面的设置
+
+
+# 网站设置
+title: jianweiBlog
+email: jjzxjianwei@126.com
+description: 这是一个测试博客
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+github_username:  jjzxjianwei
+
+# Build settings
+markdown: kramdown #kramdown解释器 
+paginate: 3
+gems: [jekyll-paginate]
+paginate_path: "/page/:num"

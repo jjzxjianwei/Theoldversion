@@ -1,2 +1,2 @@
 # jjzxjianwei.github.com
-用于存放博客的仓库
+#这是一个用于存放博客的仓库

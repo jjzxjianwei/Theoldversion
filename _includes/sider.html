@@ -1,0 +1,26 @@
+<div class="col-xs-2 span3">
+  <ul class="nav nav-list">
+<hr>
+    <li class="nav-header"><big><b>博客分类栏目</b></big></li>
+      {% for category in site.categories %}
+        <li><a href="/category/#{{ category[0] }}">{{ category[0] }}</a></li>
+      {% endfor %}
+      <hr>
+	  <!--
+    <li class="nav-header"><big><b>博客文章标签</b></big></li>
+    <br />
+    {% for tag in site.tags %}
+        <big><a class="label label-info" href="/tags/#{{ tag[0] }}">{{ tag[0] }}</a></big>
+    {% endfor %}
+    <hr>-->
+      <li class="nav-header"><big><b>友情链接</b></big></li>
+
+     <li><a href="https://jjzxjianwei.github.com/myweb">jwBlog</a></li>
+	 <hr>
+    <li class="nav-header"><big><b>博主推荐</b></big></li>
+    <P></P>
+    <center>
+    <a href="http://www.iqiyi.com/v_19rrnqxz7k.html"><img src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1793839282,2049693343&fm=58&s=59B127D546A3D8F00698302F03003042" alt="战狼" width="130"></a>
+    </center>
+  </ul>
+</div>
